@@ -1,2 +1,2 @@
-# Corpus_Analysis_with_NLTK_and_SpaCy
+# Corpus Analysis with NLTK and SpaCy
 A tutorial for corpus analysis with NLTK and SpaCy.
